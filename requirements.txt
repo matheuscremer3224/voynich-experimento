@@ -1,0 +1,5 @@
+# Testado com Python 3.13 e as versões abaixo
+numpy>=2.0        # testado com 2.5.3
+scipy>=1.11       # testado com 1.18.1
+pandas>=2.0       # testado com 3.0.5 (usado pela cifra Naibbe, Fase 18)
+Pillow>=10        # testado com 12.3.0 (medidas de cor das imagens, Fase 11)
