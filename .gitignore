@@ -1,0 +1,11 @@
+# Dados de terceiros: baixe pelas instruções de DADOS.md (não vão para o repositório)
+src/ZL.txt
+src/RF.txt
+src/pdfimg/
+src/modelo_*.json
+dados_externos/
+*.pdf
+
+# Python
+__pycache__/
+*.pyc
