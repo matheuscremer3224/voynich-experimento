@@ -1,0 +1,3 @@
+parágrafos-página: 953
+Isidoro (rótulo = nome da coisa descrita)    rótulos(3+)  931  ecoados 165 (18%)  concentração mediana 0.667 vs fichas da página 0.191  (P=0.000)  frequência global mediana 2 vs 6
+Isidoro (rótulo = nome da coisa descrita)    ecoados pareados 158  lift mediano dos rótulos 521.05  vs fichas de frequência parecida 489.13  (P=0.000)

@@ -1,0 +1,19 @@
+Voynich {'agrup': 0.109, 'chave': 20, 'chave_acaso': 7.8, 'viz-dist': 0.059, 'TTR': 0.205, 'h2': 2.138, 'rep': 0.009}
+novas=0.5 janela=60 mutação=0.3 {'agrup': 0.256, 'chave': 336, 'chave_acaso': 9.5, 'viz-dist': 0.071, 'TTR': 0.175, 'h2': 2.225, 'rep': 0.009}
+novas=0.5 janela=60 mutação=0.7 {'agrup': 0.143, 'chave': 128, 'chave_acaso': 6.5, 'viz-dist': 0.038, 'TTR': 0.219, 'h2': 2.293, 'rep': 0.005}
+novas=0.5 janela=300 mutação=0.3 {'agrup': 0.137, 'chave': 165, 'chave_acaso': 7.3, 'viz-dist': 0.088, 'TTR': 0.173, 'h2': 2.226, 'rep': 0.005}
+novas=0.5 janela=300 mutação=0.7 {'agrup': 0.069, 'chave': 73, 'chave_acaso': 7.9, 'viz-dist': 0.043, 'TTR': 0.218, 'h2': 2.29, 'rep': 0.004}
+novas=0.5 janela=1500 mutação=0.3 {'agrup': 0.044, 'chave': 22, 'chave_acaso': 5.8, 'viz-dist': 0.036, 'TTR': 0.176, 'h2': 2.243, 'rep': 0.005}
+novas=0.5 janela=1500 mutação=0.7 {'agrup': 0.018, 'chave': 11, 'chave_acaso': 5.6, 'viz-dist': 0.018, 'TTR': 0.223, 'h2': 2.312, 'rep': 0.004}
+novas=0.7 janela=60 mutação=0.3 {'agrup': 0.133, 'chave': 115, 'chave_acaso': 6.7, 'viz-dist': 0.037, 'TTR': 0.191, 'h2': 2.195, 'rep': 0.006}
+novas=0.7 janela=60 mutação=0.7 {'agrup': 0.078, 'chave': 49, 'chave_acaso': 6.2, 'viz-dist': 0.016, 'TTR': 0.217, 'h2': 2.233, 'rep': 0.005}
+novas=0.7 janela=300 mutação=0.3 {'agrup': 0.075, 'chave': 82, 'chave_acaso': 6.5, 'viz-dist': 0.04, 'TTR': 0.19, 'h2': 2.186, 'rep': 0.006}
+novas=0.7 janela=300 mutação=0.7 {'agrup': 0.046, 'chave': 24, 'chave_acaso': 7.0, 'viz-dist': 0.024, 'TTR': 0.219, 'h2': 2.232, 'rep': 0.005}
+novas=0.7 janela=1500 mutação=0.3 {'agrup': 0.031, 'chave': 10, 'chave_acaso': 8.0, 'viz-dist': 0.013, 'TTR': 0.19, 'h2': 2.194, 'rep': 0.005}
+novas=0.7 janela=1500 mutação=0.7 {'agrup': 0.022, 'chave': 9, 'chave_acaso': 4.8, 'viz-dist': 0.011, 'TTR': 0.223, 'h2': 2.232, 'rep': 0.005}
+novas=0.85 janela=60 mutação=0.3 {'agrup': 0.07, 'chave': 42, 'chave_acaso': 6.5, 'viz-dist': 0.017, 'TTR': 0.203, 'h2': 2.163, 'rep': 0.006}
+novas=0.85 janela=60 mutação=0.7 {'agrup': 0.041, 'chave': 14, 'chave_acaso': 5.8, 'viz-dist': 0.01, 'TTR': 0.217, 'h2': 2.188, 'rep': 0.006}
+novas=0.85 janela=300 mutação=0.3 {'agrup': 0.044, 'chave': 22, 'chave_acaso': 5.4, 'viz-dist': 0.019, 'TTR': 0.199, 'h2': 2.167, 'rep': 0.006}
+novas=0.85 janela=300 mutação=0.7 {'agrup': 0.03, 'chave': 11, 'chave_acaso': 5.6, 'viz-dist': 0.009, 'TTR': 0.215, 'h2': 2.185, 'rep': 0.006}
+novas=0.85 janela=1500 mutação=0.3 {'agrup': 0.018, 'chave': 7, 'chave_acaso': 6.8, 'viz-dist': 0.008, 'TTR': 0.201, 'h2': 2.167, 'rep': 0.006}
+novas=0.85 janela=1500 mutação=0.7 {'agrup': 0.021, 'chave': 5, 'chave_acaso': 4.3, 'viz-dist': 0.006, 'TTR': 0.217, 'h2': 2.187, 'rep': 0.004}

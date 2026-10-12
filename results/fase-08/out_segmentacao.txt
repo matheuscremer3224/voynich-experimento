@@ -1,0 +1,7 @@
+palavra                            junção 0.027  dentro 0.303  razão  0.09  F1 espaço 0.77  incerteza 49%  compr 5.72  TTR 0.331
+sílaba                             junção 0.308  dentro 0.500  razão  0.62  F1 espaço 0.90  incerteza 33%  compr 2.58  TTR 0.037
+sílaba sem fronteira de palavra    junção 0.317  dentro 0.211  razão  1.51  F1 espaço 0.97  incerteza 18%  compr 2.74  TTR 0.071
+C*V (corte após vogal)             junção 0.138  dentro 0.026  razão  5.31  F1 espaço 1.00  incerteza 13%  compr 2.74  TTR 0.070
+V*C* (corte antes de vogal)        junção 0.130  dentro 0.028  razão  4.58  F1 espaço 1.00  incerteza 13%  compr 2.74  TTR 0.073
+2 letras                           junção 0.466  dentro nan  razão   nan  F1 espaço 0.50  incerteza 101%  compr 2.00  TTR 0.006
+3 letras                           junção 0.462  dentro 0.155  razão  2.98  F1 espaço 0.17  incerteza 107%  compr 3.00  TTR 0.065

@@ -1,0 +1,10 @@
+flor azul            palavra em 70% das páginas com o traço e 10% das demais: detectada em 100% das simulações
+flor azul            palavra em 50% das páginas com o traço e 10% das demais: detectada em 86% das simulações
+flor azul            palavra em 40% das páginas com o traço e 10% das demais: detectada em 58% das simulações
+flor azul            palavra em 30% das páginas com o traço e 10% das demais: detectada em 21% das simulações
+flor azul            palavra em 50% das páginas com o traço e 25% das demais: detectada em 19% das simulações
+raiz vermelha/ocre   palavra em 70% das páginas com o traço e 10% das demais: detectada em 100% das simulações
+raiz vermelha/ocre   palavra em 50% das páginas com o traço e 10% das demais: detectada em 90% das simulações
+raiz vermelha/ocre   palavra em 40% das páginas com o traço e 10% das demais: detectada em 56% das simulações
+raiz vermelha/ocre   palavra em 30% das páginas com o traço e 10% das demais: detectada em 20% das simulações
+raiz vermelha/ocre   palavra em 50% das páginas com o traço e 25% das demais: detectada em 24% das simulações

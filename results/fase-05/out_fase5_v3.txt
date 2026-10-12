@@ -1,0 +1,30 @@
+
+ZL.txt f4r: 64 palavras
+  texto real           válidas 39.1% (lidas 39.1%, incertas 0.0%); em grupos multipalavra 0.0%
+  ordem embaralhada    válidas 39.1% ± 0.2%; multipalavra 0.0% ± 0.4%; P(controle ≥ real) = 1.00
+  glifos embaralhados  válidas 9.3% ± 2.8%; multipalavra 0.0%; P(controle ≥ real) = 0.00
+
+ZL.txt f78r: 290 palavras
+  texto real           válidas 24.1% (lidas 16.6%, incertas 7.6%); em grupos multipalavra 3.4%
+  ordem embaralhada    válidas 21.9% ± 0.6%; multipalavra 1.1% ± 0.8%; P(controle ≥ real) = 0.00
+  glifos embaralhados  válidas 7.7% ± 1.1%; multipalavra 0.9%; P(controle ≥ real) = 0.00
+
+RF.txt f4r: 63 palavras
+  texto real           válidas 38.1% (lidas 38.1%, incertas 0.0%); em grupos multipalavra 0.0%
+  ordem embaralhada    válidas 38.1% ± 0.0%; multipalavra 0.0% ± 0.0%; P(controle ≥ real) = 1.00
+  glifos embaralhados  válidas 9.1% ± 3.1%; multipalavra 0.0%; P(controle ≥ real) = 0.00
+
+RF.txt f78r: 291 palavras
+  texto real           válidas 25.4% (lidas 16.8%, incertas 8.6%); em grupos multipalavra 2.1%
+  ordem embaralhada    válidas 24.4% ± 0.6%; multipalavra 1.0% ± 0.7%; P(controle ≥ real) = 0.09
+  glifos embaralhados  válidas 8.2% ± 1.0%; multipalavra 0.4%; P(controle ≥ real) = 0.00
+
+ZL.txt f4r (vírgula = junção): 60 palavras
+  texto real           válidas 38.3% (lidas 38.3%, incertas 0.0%); em grupos multipalavra 0.0%
+  ordem embaralhada    válidas 38.3% ± 0.0%; multipalavra 0.0% ± 0.0%; P(controle ≥ real) = 1.00
+  glifos embaralhados  válidas 9.1% ± 2.9%; multipalavra 0.0%; P(controle ≥ real) = 0.00
+
+ZL.txt f78r (vírgula = junção): 265 palavras
+  texto real           válidas 20.4% (lidas 13.2%, incertas 7.2%); em grupos multipalavra 1.5%
+  ordem embaralhada    válidas 19.5% ± 0.4%; multipalavra 0.4% ± 0.5%; P(controle ≥ real) = 0.07
+  glifos embaralhados  válidas 5.2% ± 1.1%; multipalavra 0.2%; P(controle ≥ real) = 0.00

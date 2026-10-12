@@ -1,0 +1,4 @@
+Voynich, 20 mil palavras fora do treino (chave final)      real 45.3% | embaralhado 44.6% ± 0.2% | diferença +0.7 pts (P=0.00)
+Voynich f4r                                                real 50.7% | embaralhado 48.4% ± 1.9% | diferença +2.3 pts (P=0.20)
+Voynich f78r                                               real 46.5% | embaralhado 43.2% ± 1.4% | diferença +3.3 pts (P=0.00)
+Voynich, fora do treino (chave nula)                       real 42.2% | embaralhado 40.9% ± 0.2% | diferença +1.4 pts (P=0.00)

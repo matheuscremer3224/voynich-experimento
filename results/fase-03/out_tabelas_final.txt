@@ -1,0 +1,101 @@
+| Glifo(s) EVA | Posição | Ocorrências | Valor latino |
+|---|---|---|---|
+| `ch/sh` | início/meio | 14162 | **e** |
+| `o` | meio | 13997 | **i** |
+| `k/t` | início/meio | 13977 | **t** |
+| `a` | início/meio | 12680 | **u** |
+| `e` | início/meio | 8983 | **r** |
+| `o` | início | 6978 | **a** |
+| `q` | início/meio | 5300 | **qu** |
+| `d` | início/meio | 4960 | **s** |
+| `l` | início/meio | 4011 | **n** |
+| `ee` | início/meio | 3892 | **d** |
+| `ckh/cth/cph/cfh` | início/meio | 1918 | **c** |
+| `p/f` | início/meio | 1561 | **l** |
+| `y` | início | 1462 | **o** |
+| `r` | início/meio | 1235 | **m** |
+| `s` | início/meio | 1110 | **g** |
+| `y` | meio | 403 | **p** |
+| `eee` | início/meio | 342 | **h** |
+| `ir` | início/meio | 97 | **b** |
+| `y` | fim | 7722 | **is** |
+| `dy` | fim | 6237 | **um** |
+| `l` | fim | 5380 | **us** |
+| `r` | fim | 4616 | **s** |
+| `iin` | fim | 3804 | **nt** |
+| `in` | fim | 1643 | **it** |
+| `o` | fim | 1135 | **i** |
+| `s` | fim | 1091 | **et** |
+| `m` | fim | 852 | **er** |
+| `d` | fim | 569 | **am** |
+| `ir` | fim | 413 | **m** |
+| `iiin` | fim | 156 | **t** |
+| `k/t` | fim | 138 | **in** |
+| `iir` | fim | 118 | **r** |
+| `n` | fim | 115 | **en** |
+| `g` | fim | 113 | **es** |
+
+#### a
+| Linha | EVA | Forma intermediária (latim decodificado) | Português |
+|---|---|---|---|
+| f1r.1 | fachys ykal ar ataiin shol shory cthres y.kor sholdy | luepet · otuus · us · utunt · **eius** · eimis · cmret · **is+tis** · einum | —✗ · —✗ · —✗ · —✗ · dele✓ · —✗ · —✗ · a-estes✓ · —✗ |
+| f1r.2 | sory ckhar or y kair chtaiin shar ase cthar cthar dan | gimis · cus · as · **is** · **tum** · etunt · eus · ∅ · cus · cus · suen | —✗ · —✗ · —✗ · ele/vais✓ · então✓ · —✗ · —✗ · —✗ · —✗ · —✗ · —✗ |
+| f1r.3 | syaiir sheky or ykaiin shod cthoary cthes daraiin sy | gpur · ertis · as · otunt · eiam · ciumis · cret · **sumunt** · gis | —✗ · —✗ · —✗ · —✗ · —✗ · —✗ · —✗ · tomam✓ · —✗ |
+| f1r.4 | soiin oteey oteos roloty cthiar daiin okaiin or okan | gint · atdis · atriet · minitis · ∅ · **sunt** · atunt · as · atuen | —✗ · —✗ · —✗ · —✗ · —✗ · são✓ · —✗ · —✗ · —✗ |
+| f1r.5 | sair y chear cthaiin cphar cfhaiin | gum · **is** · erus · cunt · cus · cunt | —✗ · ele/vais✓ · —✗ · —✗ · —✗ · —✗ |
+| f1r.6 | ydaraishy | ∅ | —✗ |
+
+Palavras: 46. Lidas 8 (17%), incertas 0 (0%), não resolvidas 38 (83%).
+
+#### b
+| Linha | EVA | Forma intermediária (latim decodificado) | Português |
+|---|---|---|---|
+| f2r.1 | kydainy ypchol daiin otchal ypchaiin ckholsy | ∅ · oleius · **sunt** · ateuus · oleunt · cingis | —✗ · —✗ · são✓ · —✗ · —✗ · —✗ |
+| f2r.2 | dorchory chkar s shor cthy {cto} | simeimis · etus · **et** · **eis** · **cis** · ∅ | —✗ · —✗ · e✓ · a-eles✓ · aquém✓ · —✗ |
+| f2r.3 | qotaiin cthey y chor chy ydy chaiin | quitunt · cris · **is** · **eis** · **eis** · oum · **eunt** | —✗ · —✗ · ele/vais✓ · a-eles✓ · a-eles✓ · —✗ · vão✓ |
+| f2r.4 | {c'o}aiidy chtod dy cphy dals chokaiin d | ∅ · **etiam** · um · **cis** · sunet · eitunt · am | —✗ · também✓ · —✗ · aquém✓ · —✗ · —✗ · —✗ |
+| f2r.5 | otochor al shodaiin chol dan ytchaiin dan | atieis · uus · eisunt · **eius** · suen · oteunt · suen | —✗ · —✗ · —✗ · dele✓ · —✗ · —✗ · —✗ |
+| f2r.6 | saiin dain d dkol sor ytoldy dchol dchy cthy | gunt · suit · am · stius · gis · otinum · seius · seis · **cis** | —✗ · —✗ · —✗ · —✗ · —✗ · —✗ · —✗ · —✗ · aquém✓ |
+| f2r.7 | shor ckhy daiiny chol dan | **eis** · **cis** · ∅ · **eius** · suen | a-eles✓ · aquém✓ · —✗ · dele✓ · —✗ |
+| f2r.8 | kydain shaiin qoy s shol fodan yksh olsheey daiildy | tpsuit · **eunt** · quiis · **et** · **eius** · lisuen · ∅ · anedis · ∅ | —✗ · vão✓ · —✗ · e✓ · dele✓ · —✗ · —✗ · —✗ · —✗ |
+| f2r.9 | dls sho kol sheey qokey ykody so chol yky dain daiisol | snet · **ei** · tius · **edis** · quitris · **otium** · gi · **eius** · otis · suit · ∅ | —✗ · a-ele✓ · —✗ · do-templo/comes✓ · —✗ · ócio✓ · —✗ · dele✓ · —✗ · —✗ · —✗ |
+| f2r.10 | qo'ky cholaiin shol sheky daiin cthey keol saiin e'a'iin | ∅ · einunt · **eius** · ertis · **sunt** · cris · trius · gunt · ∅ | —✗ · —✗ · dele✓ · —✗ · são✓ · —✗ · —✗ · —✗ · —✗ |
+| f2r.11 | ychain dal chy dalor shan dan olsaiin sheey ckhor | oeuit · **suus** · **eis** · sunis · euen · suen · angunt · **edis** · **cis** | —✗ · seu✓ · a-eles✓ · —✗ · —✗ · —✗ · —✗ · do-templo/comes✓ · aquém✓ |
+| f2r.12 | okol chy chor cthor yor an chan saiin chety chyky sal | atius · **eis** · **eis** · **cis** · ois · uen · euen · gunt · ertis · eptis · guus | —✗ · a-eles✓ · a-eles✓ · aquém✓ · —✗ · —✗ · —✗ · —✗ · —✗ · —✗ · —✗ |
+| f2r.13 | sho ykeey chey daiin chcthy | **ei** · otdis · **eris** · **sunt** · ecis | a-ele✓ · —✗ · serás✓ · são✓ · —✗ |
+| f2r.14 (rótulo) | ytoail | ∅ | —✗ |
+| f2r.15 (rótulo) | ios an on | ∅ · uen · aen | —✗ · —✗ · —✗ |
+
+Palavras: 105. Lidas 34 (32%), incertas 0 (0%), não resolvidas 71 (68%).
+
+#### c
+| Linha | EVA | Forma intermediária (latim decodificado) | Português |
+|---|---|---|---|
+| f71r.2 (rótulo) | oteos arar | atriet · umus | —✗ · —✗ |
+| f71r.3 (rótulo) | okldam | atnsuer | —✗ |
+| f71r.4 (rótulo) | oteoaldy | atriunum | —✗ |
+| f71r.5 (rótulo) | oteolar | atrinus | —✗ |
+| f71r.6 (rótulo) | okeoaly | atriunis | —✗ |
+| f71r.7 (rótulo) | otaleky | atunrtis | —✗ |
+| f71r.8 (rótulo) | otalsar | atungus | —✗ |
+| f71r.9 (rótulo) | cheary | erumis | —✗ |
+| f71r.10 (rótulo) | oteotey rary | atritris · mumis | —✗ · —✗ |
+| f71r.11 (rótulo) | otalaly | atununis | —✗ |
+| f71r.13 (rótulo) | otolchdy | atineum | —✗ |
+| f71r.14 (rótulo) | otoloaram | atiniumuer | —✗ |
+| f71r.15 (rótulo) | oteeol | atdius | —✗ |
+| f71r.16 (rótulo) | otolchd | atineam | —✗ |
+| f71r.17 (rótulo) | otaldar | atunsus | —✗ |
+
+Palavras: 17. Lidas 0 (0%), incertas 0 (0%), não resolvidas 17 (100%).
+
+#### d
+| Linha | EVA | Forma intermediária (latim decodificado) | Português |
+|---|---|---|---|
+| f103r.18 | polchedy qokeol okain checthy oteeylshedy okain qokain qokalshedy oteys | linerum · quitrius · atuit · ercis · atdpnerum · atuit · quituit · quitunerum · atrpet | —✗ · —✗ · —✗ · —✗ · —✗ · —✗ · —✗ · —✗ · —✗ |
+| f103r.19 | okaiin chey qoy shey qokaiin chedy qokain oteol lkar okaral lkldy lr | atunt · **eris** · quiis · **eris** · quitunt · **erum** · quituit · atrius · ntus · atumuus · ntnum · ns | —✗ · serás✓ · —✗ · serás✓ · —✗ · o-senhor? · —✗ · —✗ · —✗ · —✗ · —✗ · —✗ |
+| f103r.20 | ychain shckhy qokaiin shey qokaiin shedy olor | oeuit · ecis · quitunt · **eris** · quitunt · **erum** · anis | —✗ · —✗ · —✗ · serás✓ · —✗ · o-senhor? · —✗ |
+
+Palavras: 28. Lidas 3 (11%), incertas 2 (7%), não resolvidas 23 (82%).
+
+FORMAS: ['cis', 'edis', 'ei', 'eis', 'eius', 'eris', 'erum', 'et', 'etiam', 'eunt', 'is', 'istis', 'otium', 'sumunt', 'sunt', 'suus', 'tum']

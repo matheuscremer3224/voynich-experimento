@@ -1,0 +1,3 @@
+Voynich, fora do treino (chave de)                         real 22.7% | embaralhado 22.0% ± 0.2% | diferença +0.8 pts (P=0.00)
+Voynich f4r (chave de)                                     real 21.6% | embaralhado 22.2% ± 2.8% | diferença -0.6 pts (P=0.65)
+Voynich f78r (chave de)                                    real 20.0% | embaralhado 23.0% ± 1.8% | diferença -2.9 pts (P=0.95)

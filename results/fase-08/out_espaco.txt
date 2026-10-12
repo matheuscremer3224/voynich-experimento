@@ -1,0 +1,13 @@
+Voynich (vírgula=split) contexto ±1: F1 0.860 (precisão 0.856, revocação 0.864); incerteza restante 27% (0.198 de 0.728 bits)
+Voynich (vírgula=split) contexto ±2: F1 0.897 (precisão 0.904, revocação 0.891); incerteza restante 25% (0.180 de 0.728 bits)
+Voynich (vírgula=join) contexto ±1: F1 0.849 (precisão 0.845, revocação 0.854); incerteza restante 28% (0.192 de 0.698 bits)
+Voynich (vírgula=join) contexto ±2: F1 0.893 (precisão 0.890, revocação 0.897); incerteza restante 25% (0.176 de 0.698 bits)
+Latim contexto ±1: F1 0.559 (precisão 0.749, revocação 0.447); incerteza restante 63%
+Latim contexto ±2: F1 0.767 (precisão 0.841, revocação 0.705); incerteza restante 49%
+Latim contexto ±3: F1 0.680 (precisão 0.849, revocação 0.567); incerteza restante 62%
+Latim com espaço entre SÍLABAS ±1: F1 0.747; incerteza restante 57%
+Latim com espaço entre SÍLABAS ±2: F1 0.911; incerteza restante 30%
+Voynich: MI junção (fim->começo) 0.199 | começo->começo 0.076 | fim->fim 0.017
+Latim:   MI junção (fim->começo) 0.027 | começo->começo 0.023 | fim->fim 0.057
+Voynich: MI entre unidades adjacentes dentro da palavra 1.500
+Voynich: MI entre a última unidade e a primeira da seguinte 0.198

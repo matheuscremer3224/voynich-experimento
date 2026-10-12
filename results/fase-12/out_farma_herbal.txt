@@ -1,0 +1,5 @@
+palavras de cabeça herbais: 128 | rótulos: farmacêutica 235, zodíaco+astron.+cosmol. 659
+[exata           ] coincidem com palavra de cabeça herbal: farmacêutica 0.0% x outros rótulos 0.2% (P = 1.000) | com palavra herbal comum: 35.3% x 44.3% | razão cabeça/comum: 0.00 x 0.00
+   coincidências exatas da farmacêutica: []
+[grafias fundidas] coincidem com palavra de cabeça herbal: farmacêutica 0.0% x outros rótulos 0.5% (P = 1.000) | com palavra herbal comum: 38.7% x 51.3% | razão cabeça/comum: 0.00 x 0.01
+[miolo           ] coincidem com palavra de cabeça herbal: farmacêutica 3.7% x outros rótulos 5.6% (P = 0.873) | com palavra herbal comum: 52.8% x 58.8% | razão cabeça/comum: 0.07 x 0.10

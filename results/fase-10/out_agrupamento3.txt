@@ -1,0 +1,15 @@
+Voynich                   ('B', 'B')    19 págs,   329 palavras/pág | palavras-chave   7 (acaso  2.2) de 200
+Voynich                   ('H', 'A')    95 págs,    84 palavras/pág | palavras-chave   1 (acaso  0.1) de 257
+Voynich                   ('H', 'B')    32 págs,   109 palavras/pág | palavras-chave   4 (acaso  0.5) de 135
+Voynich                   ('H', None)    1 págs,    45 palavras/pág | palavras-chave   0 (acaso  0.0) de 0
+Voynich                   ('S', 'A')     2 págs,   376 palavras/pág | palavras-chave  23 (acaso 23.0) de 23
+Voynich                   ('S', 'B')    23 págs,   472 palavras/pág | palavras-chave   8 (acaso  2.4) de 343
+Voynich grafias fundidas  ('B', 'B')    19 págs,   329 palavras/pág | palavras-chave   2 (acaso  1.3) de 165
+Voynich grafias fundidas  ('H', 'A')    95 págs,    84 palavras/pág | palavras-chave   2 (acaso  0.2) de 228
+Voynich grafias fundidas  ('H', 'B')    32 págs,   109 palavras/pág | palavras-chave   1 (acaso  0.6) de 130
+Voynich grafias fundidas  ('H', None)    1 págs,    45 palavras/pág | palavras-chave   0 (acaso  0.0) de 0
+Voynich grafias fundidas  ('S', 'A')     2 págs,   376 palavras/pág | palavras-chave  34 (acaso 34.0) de 34
+Voynich grafias fundidas  ('S', 'B')    23 págs,   472 palavras/pág | palavras-chave  11 (acaso  2.2) de 297
+Isidoro, páginas de 120 palavras (30 por livro) | livro 12: 4 (acaso 0.7) de 90 ; livro 16: 4 (acaso 0.8) de 105 ; livro 17: 3 (acaso 0.4) de 94
+Isidoro, páginas de 200 palavras (30 por livro) | livro 12: 8 (acaso 0.7) de 154 ; livro 16: 11 (acaso 1.1) de 188 ; livro 17: 10 (acaso 1.1) de 165
+Isidoro, páginas de 330 palavras (30 por livro) | livro 12: 21 (acaso 1.8) de 262 ; livro 16: 32 (acaso 1.7) de 292 ; livro 17: 17 (acaso 1.2) de 263

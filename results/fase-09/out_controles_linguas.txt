@@ -1,0 +1,3 @@
+Controle positivo ca, chave verdadeira                     real 64.9% | embaralhado 19.7% ± 0.3% | diferença +45.2 pts (P=0.00)
+Controle positivo fro, chave verdadeira                    real 66.7% | embaralhado 33.4% ± 0.2% | diferença +33.3 pts (P=0.00)
+Controle positivo oc, chave verdadeira                     real 45.3% | embaralhado 10.9% ± 0.3% | diferença +34.3 pts (P=0.00)

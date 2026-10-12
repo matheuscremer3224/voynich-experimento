@@ -1,0 +1,17 @@
+R1 – proporção da 1ª forma, nas mesmas palavras-par, por seção, dentro de cada mão
+  mão 1 k/t: 36 pares; H: 0.52 (n=745); P: 0.82 (n=340); qui² 89.7 com 1 g.l.
+  mão 1 ch/sh: 29 pares; H: 0.64 (n=1332); P: 0.69 (n=415); qui² 3.6 com 1 g.l.
+  mão 1 o/a: 54 pares; H: 0.67 (n=2135); P: 0.71 (n=784); qui² 3.9 com 1 g.l.
+  mão 1 l/r: 44 pares; H: 0.55 (n=1641); P: 0.64 (n=645); qui² 16.1 com 1 g.l.
+  mão 2 k/t: 33 pares; H: 0.72 (n=410); B: 0.72 (n=1619); T: 0.58 (n=366); qui² 26.8 com 2 g.l.
+  mão 2 ch/sh: 22 pares; H: 0.70 (n=283); B: 0.54 (n=1136); T: 0.57 (n=266); qui² 24.5 com 2 g.l.
+  mão 2 o/a: 29 pares; H: 0.78 (n=374); B: 0.92 (n=1230); T: 0.75 (n=292); qui² 79.0 com 2 g.l.
+  mão 2 l/r: 23 pares; H: 0.36 (n=391); B: 0.68 (n=1066); T: 0.48 (n=372); qui² 139.7 com 2 g.l.
+
+Fecho de linha (-m)
+  linhas mais curtas: fim em -m 8.5%  (média 24 glifos)
+  2º quartil        : fim em -m 10.8%  (média 39 glifos)
+  3º quartil        : fim em -m 17.4%  (média 49 glifos)
+  linhas mais longas: fim em -m 25.5%  (média 61 glifos)
+  palavra antes de uma interrupção de figura no meio da linha termina em -m: 2.4% (n=746); demais palavras dessas linhas: 1.1%
+  fim de parágrafo termina em -m: 9.2%  |  fim de linha comum: 16.7%

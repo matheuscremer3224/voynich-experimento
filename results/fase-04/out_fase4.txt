@@ -1,0 +1,50 @@
+
+### a_f1r_p1
+f1r.1 [P0] fachys → luepet → ? (n) | ykal → otuus → ? (n) | ar → us → ? (n) | ataiin → utunt → ? (n) | shol → eius → eius (l:6806) | shory → eimis → ? (n) | cthres → cmret → ? (n) | y.kor → is+tis → istis (l:78) | sholdy → einum → ? (n)
+f1r.2 [P0] sory → gimis → ? (n) | ckhar → cus → ? (n) | or → as → ? (n) | y → is → is (l:119) | kair → tum → tum (l:324) | chtaiin → etunt → ? (n) | shar → eus → ? (n) | ase → ∅ → ? (n) | cthar → cus → ? (n) | cthar → cus → ? (n) | dan → suen → ? (n)
+f1r.3 [P0] syaiir → gpur → ? (n) | sheky → ertis → ? (n) | or → as → ? (n) | ykaiin → otunt → ? (n) | shod → eiam → ? (n) | cthoary → ciumis → ? (n) | cthes → cret → ? (n) | daraiin → sumunt → sumunt (l:10) | sy → gis → ? (n)
+f1r.4 [P0] soiin → gint → ? (n) | oteey → atdis → ? (n) | oteos → atriet → ? (n) | roloty → minitis → ? (n) | cthiar → ∅ → ? (n) | daiin → sunt → sunt (l:7647) | okaiin → atunt → ? (n) | or → as → ? (n) | okan → atuen → ? (n)
+f1r.5 [P0] sair → gum → ? (n) | y → is → is (l:119) | chear → erus → ? (n) | cthaiin → cunt → ? (n) | cphar → cus → ? (n) | cfhaiin → cunt → ? (n)
+f1r.6 [Pt] ydaraishy → ∅ → ? (n)
+
+### b_f2r
+f2r.1 [P0] kydainy → ∅ → ? (n) | ypchol → oleius → ? (n) | daiin → sunt → sunt (l:7647) | otchal → ateuus → ? (n) | ypchaiin → oleunt → ? (n) | ckholsy → cingis → ? (n)
+f2r.2 [P0] dorchory → simeimis → ? (n) | chkar → etus → ? (n) | s → et → et (l:74270) | shor → eis → eis (l:1895) | cthy → cis → cis (l:21) | {cto} → ∅ → ? (n)
+f2r.3 [P0] qotaiin → quitunt → ? (n) | cthey → cris → ? (n) | y → is → is (l:119) | chor → eis → eis (l:1895) | chy → eis → eis (l:1895) | ydy → oum → ? (n) | chaiin → eunt → eunt (l:5)
+f2r.4 [P0] {c'o}aiidy → ∅ → ? (n) | chtod → etiam → etiam (l:2324) | dy → um → ? (n) | cphy → cis → cis (l:21) | dals → sunet → ? (n) | chokaiin → eitunt → ? (n) | d → am → ? (n)
+f2r.5 [P0] otochor → atieis → ? (n) | al → uus → ? (n) | shodaiin → eisunt → ? (n) | chol → eius → eius (l:6806) | dan → suen → ? (n) | ytchaiin → oteunt → ? (n) | dan → suen → ? (n)
+f2r.6 [P0] saiin → gunt → ? (n) | dain → suit → ? (n) | d → am → ? (n) | dkol → stius → ? (n) | sor → gis → ? (n) | ytoldy → otinum → ? (n) | dchol → seius → ? (n) | dchy → seis → ? (n) | cthy → cis → cis (l:21)
+f2r.7 [P0] shor → eis → eis (l:1895) | ckhy → cis → cis (l:21) | daiiny → ∅ → ? (n) | chol → eius → eius (l:6806) | dan → suen → ? (n)
+f2r.8 [P0] kydain → tpsuit → ? (n) | shaiin → eunt → eunt (l:5) | qoy → quiis → ? (n) | s → et → et (l:74270) | shol → eius → eius (l:6806) | fodan → lisuen → ? (n) | yksh → ∅ → ? (n) | olsheey → anedis → ? (n) | daiildy → ∅ → ? (n)
+f2r.9 [P0] dls → snet → ? (n) | sho → ei → ei (l:1967) | kol → tius → ? (n) | sheey → edis → edis (l:5) | qokey → quitris → ? (n) | ykody → otium → otium (l:11) | so → gi → ? (n) | chol → eius → eius (l:6806) | yky → otis → ? (n) | dain → suit → ? (n) | daiisol → ∅ → ? (n)
+f2r.10 [P0] qo'ky → ∅ → ? (n) | cholaiin → einunt → ? (n) | shol → eius → eius (l:6806) | sheky → ertis → ? (n) | daiin → sunt → sunt (l:7647) | cthey → cris → ? (n) | keol → trius → ? (n) | saiin → gunt → ? (n) | e'a'iin → ∅ → ? (n)
+f2r.11 [P0] ychain → oeuit → ? (n) | dal → suus → suus (l:59) | chy → eis → eis (l:1895) | dalor → sunis → ? (n) | shan → euen → ? (n) | dan → suen → ? (n) | olsaiin → angunt → ? (n) | sheey → edis → edis (l:5) | ckhor → cis → cis (l:21)
+f2r.12 [P0] okol → atius → ? (n) | chy → eis → eis (l:1895) | chor → eis → eis (l:1895) | cthor → cis → cis (l:21) | yor → ois → ? (n) | an → uen → ? (n) | chan → euen → ? (n) | saiin → gunt → ? (n) | chety → ertis → ? (n) | chyky → eptis → ? (n) | sal → guus → ? (n)
+f2r.13 [P0] sho → ei → ei (l:1967) | ykeey → otdis → ? (n) | chey → eris → eris (l:215) | daiin → sunt → sunt (l:7647) | chcthy → ecis → ? (n)
+f2r.14 [Lp] ytoail → ∅ → ? (n)
+f2r.15 [L0] ios → ∅ → ? (n) | an → uen → ? (n) | on → aen → ? (n)
+
+### c_f71r_rotulos
+f71r.2 [Lz] oteos → atriet → ? (n) | arar → umus → ? (n)
+f71r.3 [Lz] okldam → atnsuer → ? (n)
+f71r.4 [Lz] oteoaldy → atriunum → ? (n)
+f71r.5 [Lz] oteolar → atrinus → ? (n)
+f71r.6 [Lz] okeoaly → atriunis → ? (n)
+f71r.7 [Lz] otaleky → atunrtis → ? (n)
+f71r.8 [Lz] otalsar → atungus → ? (n)
+f71r.9 [Lz] cheary → erumis → ? (n)
+f71r.10 [Lz] oteotey → atritris → ? (n) | rary → mumis → ? (n)
+f71r.11 [Lz] otalaly → atununis → ? (n)
+f71r.13 [Lz] otolchdy → atineum → ? (n)
+f71r.14 [Lz] otoloaram → atiniumuer → ? (n)
+f71r.15 [Lz] oteeol → atdius → ? (n)
+f71r.16 [Lz] otolchd → atineam → ? (n)
+f71r.17 [Lz] otaldar → atunsus → ? (n)
+
+### d_f103r_receita
+f103r.18 [P0] polchedy → linerum → ? (n) | qokeol → quitrius → ? (n) | okain → atuit → ? (n) | checthy → ercis → ? (n) | oteeylshedy → atdpnerum → ? (n) | okain → atuit → ? (n) | qokain → quituit → ? (n) | qokalshedy → quitunerum → ? (n) | oteys → atrpet → ? (n)
+f103r.19 [P0] okaiin → atunt → ? (n) | chey → eris → eris (l:215) | qoy → quiis → ? (n) | shey → eris → eris (l:215) | qokaiin → quitunt → ? (n) | chedy → erum → erum (i:3) | qokain → quituit → ? (n) | oteol → atrius → ? (n) | lkar → ntus → ? (n) | okaral → atumuus → ? (n) | lkldy → ntnum → ? (n) | lr → ns → ? (n)
+f103r.20 [P0] ychain → oeuit → ? (n) | shckhy → ecis → ? (n) | qokaiin → quitunt → ? (n) | shey → eris → eris (l:215) | qokaiin → quitunt → ? (n) | shedy → erum → erum (i:3) | olor → anis → ? (n)
+
+formas latinas distintas: 17
+['cis', 'edis', 'ei', 'eis', 'eius', 'eris', 'erum', 'et', 'etiam', 'eunt', 'is', 'istis', 'otium', 'sumunt', 'sunt', 'suus', 'tum']

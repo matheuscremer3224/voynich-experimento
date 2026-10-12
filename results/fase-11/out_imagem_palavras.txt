@@ -1,0 +1,10 @@
+palavras como estão (vocabulário testado: palavras em 8+ páginas)
+  flor azul            páginas com o traço  33/112 | palavra mais associada 'okchy' (8 de 33 com o traço x 6 de 79 sem) | p bruto 2.03e-02 | p corrigido 0.867
+  raiz vermelha/ocre   páginas com o traço  40/112 | palavra mais associada 'd' (15 de 40 com o traço x 7 de 72 sem) | p bruto 5.96e-04 | p corrigido 0.050
+  topo vermelho/ocre   páginas com o traço  18/112 | palavra mais associada 'qokol' (9 de 18 com o traço x 13 de 94 sem) | p bruto 1.44e-03 | p corrigido 0.096
+  planta grande        páginas com o traço  53/112 | palavra mais associada 'ksho' (7 de 53 com o traço x 1 de 59 sem) | p bruto 2.10e-02 | p corrigido 0.870
+grafias fundidas (vocabulário testado: palavras em 8+ páginas)
+  flor azul            páginas com o traço  33/112 | palavra mais associada 'qockhy' (7 de 33 com o traço x 2 de 79 sem) | p bruto 2.60e-03 | p corrigido 0.209
+  raiz vermelha/ocre   páginas com o traço  40/112 | palavra mais associada 'd' (15 de 40 com o traço x 7 de 72 sem) | p bruto 5.96e-04 | p corrigido 0.037
+  topo vermelho/ocre   páginas com o traço  18/112 | palavra mais associada 'qokain' (9 de 18 com o traço x 19 de 94 sem) | p bruto 1.14e-02 | p corrigido 0.625
+  planta grande        páginas com o traço  53/112 | palavra mais associada 'okair' (9 de 53 com o traço x 0 de 59 sem) | p bruto 8.07e-04 | p corrigido 0.050

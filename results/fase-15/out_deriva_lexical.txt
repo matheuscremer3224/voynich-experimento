@@ -1,0 +1,22 @@
+Voynich, palavras como estão                              índice +0.109
+Voynich, variantes fundidas (k=t, ch=sh, e/i colapsados)  índice +0.108
+Voynich, fusão forte (também o=a e finais)                índice +0.103
+Latim, palavras como estão                               índice +0.113
+Latim, fusão forte análoga (vogais colapsadas, finais)   índice +0.111
+Voynich em blocos de 1 páginas vizinhas: índice +0.109  |  latim: +0.113
+Voynich em blocos de 2 páginas vizinhas: índice +0.107  |  latim: +0.114
+Voynich em blocos de 4 páginas vizinhas: índice +0.091  |  latim: +0.096
+Voynich em blocos de 8 páginas vizinhas: índice +0.088  |  latim: +0.060
+Voynich {'agrup': 0.109, 'chave': 20, 'chave_acaso': 5.8, 'viz-dist': 0.059, 'TTR': 0.205, 'h2': 2.138, 'rep': 0.009, 'bloco8': 0.088}
+repertório=0.5 correlação=5 pág. σ=1.0 {'agrup': 0.046, 'chave': 15, 'chave_acaso': 6.9, 'viz-dist': 0.07, 'TTR': 0.189, 'h2': 2.144, 'rep': 0.007, 'bloco8': 0.087}
+repertório=0.5 correlação=5 pág. σ=2.0 {'agrup': 0.126, 'chave': 72, 'chave_acaso': 6.6, 'viz-dist': 0.166, 'TTR': 0.183, 'h2': 2.161, 'rep': 0.009, 'bloco8': 0.133}
+repertório=0.5 correlação=15 pág. σ=1.0 {'agrup': 0.043, 'chave': 9, 'chave_acaso': 6.4, 'viz-dist': 0.038, 'TTR': 0.186, 'h2': 2.147, 'rep': 0.007, 'bloco8': 0.1}
+repertório=0.5 correlação=15 pág. σ=2.0 {'agrup': 0.101, 'chave': 26, 'chave_acaso': 5.4, 'viz-dist': 0.164, 'TTR': 0.173, 'h2': 2.173, 'rep': 0.01, 'bloco8': 0.133}
+repertório=0.5 correlação=40 pág. σ=1.0 {'agrup': 0.036, 'chave': 9, 'chave_acaso': 7.6, 'viz-dist': 0.023, 'TTR': 0.184, 'h2': 2.157, 'rep': 0.006, 'bloco8': 0.086}
+repertório=0.5 correlação=40 pág. σ=2.0 {'agrup': 0.072, 'chave': 8, 'chave_acaso': 5.8, 'viz-dist': 0.101, 'TTR': 0.176, 'h2': 2.161, 'rep': 0.008, 'bloco8': 0.129}
+repertório=0.8 correlação=5 pág. σ=1.0 {'agrup': 0.079, 'chave': 30, 'chave_acaso': 8.1, 'viz-dist': 0.119, 'TTR': 0.16, 'h2': 2.143, 'rep': 0.009, 'bloco8': 0.099}
+repertório=0.8 correlação=5 pág. σ=2.0 {'agrup': 0.228, 'chave': 118, 'chave_acaso': 6.3, 'viz-dist': 0.292, 'TTR': 0.153, 'h2': 2.208, 'rep': 0.015, 'bloco8': 0.206}
+repertório=0.8 correlação=15 pág. σ=1.0 {'agrup': 0.061, 'chave': 12, 'chave_acaso': 7.4, 'viz-dist': 0.092, 'TTR': 0.156, 'h2': 2.144, 'rep': 0.009, 'bloco8': 0.116}
+repertório=0.8 correlação=15 pág. σ=2.0 {'agrup': 0.168, 'chave': 38, 'chave_acaso': 5.0, 'viz-dist': 0.269, 'TTR': 0.145, 'h2': 2.174, 'rep': 0.015, 'bloco8': 0.204}
+repertório=0.8 correlação=40 pág. σ=1.0 {'agrup': 0.054, 'chave': 6, 'chave_acaso': 7.7, 'viz-dist': 0.063, 'TTR': 0.153, 'h2': 2.139, 'rep': 0.01, 'bloco8': 0.107}
+repertório=0.8 correlação=40 pág. σ=2.0 {'agrup': 0.117, 'chave': 20, 'chave_acaso': 4.4, 'viz-dist': 0.17, 'TTR': 0.14, 'h2': 2.2, 'rep': 0.012, 'bloco8': 0.176}

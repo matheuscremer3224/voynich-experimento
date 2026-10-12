@@ -1,0 +1,3 @@
+chave tabela3_real_fro_semR1.json | dialeto all | língua fro | 20593 palavras de teste
+  S′ (segmentação contínua)                                real 50.8% | embaralhado 49.2% ± 0.2% | diferença +1.6 pts (P=0.00)
+  R4 (palavras Voynich inteiras)                             real 21.0% | embaralhado 20.8% ± 0.0% | diferença +0.1 pts (P=0.00)

@@ -1,0 +1,18 @@
+modo=embaralhado seed=1 pedaços otimizados=41 linhas=3981 tipos=7096 léxico=48224
+  passe 1: cobertura 0.4895 (multipalavra 0.0011)
+  passe 2: cobertura 0.5355 (multipalavra 0.0027)
+  passe 3: cobertura 0.5361 (multipalavra 0.0032)
+  passe 4: cobertura 0.5787 (multipalavra 0.0151)
+  passe 5: cobertura 0.5787 (multipalavra 0.0151)
+reinício 0 (freq): cobertura 0.5787 multipalavra 0.0151 [360s]
+  passe 1: cobertura 0.4646 (multipalavra 0.0628)
+  passe 2: cobertura 0.5935 (multipalavra 0.0694)
+  passe 3: cobertura 0.6167 (multipalavra 0.0739)
+  passe 4: cobertura 0.6167 (multipalavra 0.0739)
+reinício 1 (rand): cobertura 0.6167 multipalavra 0.0739 [277s]
+  passe 1: cobertura 0.5545 (multipalavra 0.0120)
+  passe 2: cobertura 0.5773 (multipalavra 0.0122)
+  passe 3: cobertura 0.5777 (multipalavra 0.0131)
+  passe 4: cobertura 0.5777 (multipalavra 0.0131)
+reinício 2 (rand): cobertura 0.5777 multipalavra 0.0131 [308s]
+MELHOR: 0.6167 / multipalavra 0.0739

@@ -1,0 +1,7 @@
+Voynich (ZL, texto corrido)        n= 34977  MI através 0.199  MI dentro 0.098  razão 2.03  TTR 0.205  hápax 69%  h2 2.14  repetição 0.92%
+Voynich com palavras embaralhadas  n= 34977  MI através -0.001  MI dentro 0.098  razão -0.01  TTR 0.205  hápax 69%  h2 2.14  repetição 0.35%
+latim cifrado, 1 palavra = letra (22 tipos) n= 34977  MI através -0.001  MI dentro 0.099  razão -0.01  TTR 0.152  hápax 40%  h2 2.14  repetição 0.15%
+latim cifrado, 1 palavra = letra+espaço (22 tipos) n= 34977  MI através 0.001  MI dentro 0.101  razão 0.01  TTR 0.150  hápax 40%  h2 2.13  repetição 0.12%
+latim cifrado, 1 palavra = par (344 tipos) n= 34977  MI através 0.002  MI dentro 0.107  razão 0.02  TTR 0.151  hápax 39%  h2 2.14  repetição 0.13%
+latim cifrado, 1 palavra = sílaba (1585 tipos) n= 34977  MI através 0.002  MI dentro 0.107  razão 0.02  TTR 0.155  hápax 46%  h2 2.13  repetição 0.11%
+latim cifrado, 1 palavra = palavra (10997 tipos) n= 34977  MI através 0.001  MI dentro 0.136  razão 0.01  TTR 0.176  hápax 66%  h2 2.07  repetição 0.18%

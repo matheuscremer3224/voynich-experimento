@@ -1,0 +1,17 @@
+modo=real seed=1 pedaços otimizados=41 linhas=3981 tipos=7096 léxico=48224
+  passe 1: cobertura 0.4900 (multipalavra 0.0025)
+  passe 2: cobertura 0.5372 (multipalavra 0.0043)
+  passe 3: cobertura 0.5498 (multipalavra 0.0286)
+  passe 4: cobertura 0.5498 (multipalavra 0.0286)
+reinício 0 (freq): cobertura 0.5498 multipalavra 0.0286 [291s]
+  passe 1: cobertura 0.4675 (multipalavra 0.0655)
+  passe 2: cobertura 0.5959 (multipalavra 0.0723)
+  passe 3: cobertura 0.6191 (multipalavra 0.0770)
+  passe 4: cobertura 0.6191 (multipalavra 0.0770)
+reinício 1 (rand): cobertura 0.6191 multipalavra 0.0770 [277s]
+  passe 1: cobertura 0.5573 (multipalavra 0.0164)
+  passe 2: cobertura 0.5788 (multipalavra 0.0153)
+  passe 3: cobertura 0.5791 (multipalavra 0.0158)
+  passe 4: cobertura 0.5791 (multipalavra 0.0158)
+reinício 2 (rand): cobertura 0.5791 multipalavra 0.0158 [312s]
+MELHOR: 0.6191 / multipalavra 0.0770

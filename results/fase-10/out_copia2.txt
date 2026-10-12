@@ -1,0 +1,6 @@
+G-cópia2 agrupamento por página +0.030
+   ('B', 'B')   palavras-chave  9 (acaso  3.6) de 210 | cosseno vizinhas 0.402 x distantes 0.387
+   ('H', 'A')   palavras-chave  0 (acaso  0.2) de 244 | cosseno vizinhas 0.123 x distantes 0.111
+   ('H', 'B')   palavras-chave  1 (acaso  0.5) de  95 | cosseno vizinhas 0.132 x distantes 0.131
+   ('S', 'B')   palavras-chave  9 (acaso  3.3) de 336 | cosseno vizinhas 0.344 x distantes 0.330
+G-cópia2 bateria: h2=2.482; compr=4.686; dp=1.975; TTR=0.361; hapax=0.731; razao=1.476; F1esp=0.880; rep=0.001; quase=0.018; m_curtas=0.065; m_longas=0.111; m_meio=0.011; par_gallows=0.321; ed_A=0.037; ed_B=0.143; JS_H_B=0.371; eco=0.319; eco_acaso=0.099; conc_rot=0.062; conc_nulo=0.281; freq_rot=18.000; freq_nulo=3.860

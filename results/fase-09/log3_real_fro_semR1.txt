@@ -1,0 +1,8 @@
+modelo de trigramas: H = 3.140 bits/letra
+  iteração 5: escore/letra -0.058
+  iteração 10: escore/letra -0.027
+  iteração 15: escore/letra -0.027
+  iteração 20: escore/letra -0.027
+  iteração 25: escore/letra -0.027
+reinício 0: escore/letra -0.027 [1311s]
+MELHOR: -0.027

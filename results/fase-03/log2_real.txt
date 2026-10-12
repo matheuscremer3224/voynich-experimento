@@ -1,0 +1,19 @@
+modo=real pedaços=41 linhas=3981
+  passe 1: cobertura 0.3166 (multipalavra 0.0053)
+  passe 2: cobertura 0.3999 (multipalavra 0.0027)
+  passe 3: cobertura 0.4063 (multipalavra 0.0043)
+  passe 4: cobertura 0.4070 (multipalavra 0.0041)
+  passe 5: cobertura 0.4070 (multipalavra 0.0041)
+reinício 0: cobertura 0.4070 multipalavra 0.0041 [342s]
+  passe 1: cobertura 0.2968 (multipalavra 0.0124)
+  passe 2: cobertura 0.3439 (multipalavra 0.0075)
+  passe 3: cobertura 0.3523 (multipalavra 0.0080)
+  passe 4: cobertura 0.3523 (multipalavra 0.0080)
+reinício 1: cobertura 0.3523 multipalavra 0.0080 [283s]
+  passe 1: cobertura 0.2782 (multipalavra 0.0076)
+  passe 2: cobertura 0.3425 (multipalavra 0.0060)
+  passe 3: cobertura 0.3760 (multipalavra 0.0066)
+  passe 4: cobertura 0.3767 (multipalavra 0.0068)
+  passe 5: cobertura 0.3767 (multipalavra 0.0068)
+reinício 2: cobertura 0.3767 multipalavra 0.0068 [342s]
+MELHOR: 0.4070 / multipalavra 0.0041

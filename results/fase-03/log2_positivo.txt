@@ -1,0 +1,13 @@
+chave verdadeira: (0.9517961314092723, 0.683681301811483)
+modo=positivo pedaços=39 linhas=1600
+  passe 1: cobertura 0.4399 (multipalavra 0.0061)
+  passe 2: cobertura 0.5176 (multipalavra 0.0100)
+  passe 3: cobertura 0.5331 (multipalavra 0.0106)
+  passe 4: cobertura 0.5331 (multipalavra 0.0106)
+reinício 0: cobertura 0.5331 multipalavra 0.0106 [92s]; valores verdadeiros recuperados 2/39
+  passe 1: cobertura 0.4851 (multipalavra 0.0117)
+  passe 2: cobertura 0.5529 (multipalavra 0.0153)
+  passe 3: cobertura 0.5543 (multipalavra 0.0101)
+  passe 4: cobertura 0.5543 (multipalavra 0.0101)
+reinício 1: cobertura 0.5543 multipalavra 0.0101 [89s]; valores verdadeiros recuperados 1/39
+MELHOR: 0.5543 / multipalavra 0.0101

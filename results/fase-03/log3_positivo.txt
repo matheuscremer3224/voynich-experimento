@@ -1,0 +1,12 @@
+modelo de trigramas: H = 3.221 bits/letra
+chave verdadeira: escore/letra +0.038
+  iteração 5: escore/letra +0.043; verdadeiros 28/39
+  iteração 10: escore/letra +0.043; verdadeiros 28/39
+  iteração 15: escore/letra +0.049; verdadeiros 30/39
+  iteração 20: escore/letra +0.052; verdadeiros 30/39
+  iteração 25: escore/letra +0.052; verdadeiros 30/39
+  iteração 30: escore/letra +0.052; verdadeiros 30/39
+  iteração 35: escore/letra +0.052; verdadeiros 30/39
+  iteração 40: escore/letra +0.052; verdadeiros 30/39
+reinício 0: escore/letra +0.052 [430s]; valores verdadeiros 30/39
+MELHOR: +0.052

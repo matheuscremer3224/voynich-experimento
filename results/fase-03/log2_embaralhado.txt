@@ -1,0 +1,21 @@
+modo=embaralhado pedaços=41 linhas=3981
+  passe 1: cobertura 0.3240 (multipalavra 0.0028)
+  passe 2: cobertura 0.3487 (multipalavra 0.0034)
+  passe 3: cobertura 0.3490 (multipalavra 0.0033)
+  passe 4: cobertura 0.3490 (multipalavra 0.0033)
+reinício 0: cobertura 0.3490 multipalavra 0.0033 [270s]
+  passe 1: cobertura 0.3329 (multipalavra 0.0009)
+  passe 2: cobertura 0.3609 (multipalavra 0.0008)
+  passe 3: cobertura 0.3859 (multipalavra 0.0020)
+  passe 4: cobertura 0.3953 (multipalavra 0.0017)
+  passe 5: cobertura 0.3954 (multipalavra 0.0017)
+  passe 6: cobertura 0.3954 (multipalavra 0.0017)
+reinício 1: cobertura 0.3954 multipalavra 0.0017 [422s]
+  passe 1: cobertura 0.2798 (multipalavra 0.0035)
+  passe 2: cobertura 0.3451 (multipalavra 0.0043)
+  passe 3: cobertura 0.3517 (multipalavra 0.0031)
+  passe 4: cobertura 0.3912 (multipalavra 0.0044)
+  passe 5: cobertura 0.4368 (multipalavra 0.0028)
+  passe 6: cobertura 0.4382 (multipalavra 0.0028)
+reinício 2: cobertura 0.4382 multipalavra 0.0028 [411s]
+MELHOR: 0.4382 / multipalavra 0.0028

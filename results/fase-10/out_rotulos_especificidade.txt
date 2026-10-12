@@ -1,0 +1,12 @@
+Voynich, todas as seções                     rótulos(3+) 1036  ecoados 114 (11%)  concentração mediana 0.031 vs fichas da página 0.078  (P=1.000)  frequência global mediana 92 vs 21
+Voynich, biológica                           rótulos(3+)  116  ecoados  24 (21%)  concentração mediana 0.080 vs fichas da página 0.130  (P=0.940)  frequência global mediana 26 vs 25
+Voynich, cosmológica                         rótulos(3+)  192  ecoados  36 (19%)  concentração mediana 0.367 vs fichas da página 0.766  (P=1.000)  frequência global mediana 8 vs 2
+Voynich, farmacêutica                        rótulos(3+)  235  ecoados  16 (7%)  concentração mediana 0.138 vs fichas da página 0.378  (P=1.000)  frequência global mediana 14 vs 5
+Voynich, zodíaco                             rótulos(3+)  330  ecoados  30 (9%)  concentração mediana 0.303 vs fichas da página 0.817  (P=0.995)  frequência global mediana 6 vs 2
+Voynich, astronômica                         rótulos(3+)  137  ecoados   5 (4%)  concentração mediana 0.500 vs fichas da página 0.902  (P=0.955)  frequência global mediana 3 vs 1
+Versão pareada por frequência global:
+Voynich, todas as seções                     ecoados pareados 110  lift mediano dos rótulos  4.50  vs fichas de frequência parecida  5.59  (P=0.985)
+Voynich, biológica                           ecoados pareados  24  lift mediano dos rótulos  1.55  vs fichas de frequência parecida  2.02  (P=0.920)
+Voynich, cosmológica                         ecoados pareados  36  lift mediano dos rótulos  2.48  vs fichas de frequência parecida  2.66  (P=0.905)
+Voynich, farmacêutica                        ecoados pareados  16  lift mediano dos rótulos  1.97  vs fichas de frequência parecida  3.11  (P=0.990)
+Voynich, zodíaco                             ecoados pareados  30  lift mediano dos rótulos  3.16  vs fichas de frequência parecida  3.38  (P=0.705)

@@ -1,0 +1,107 @@
+
+===== ZL.txt | vírgula=split =====
+linhas 5384  tokens 39025  tipos 8373  tokens-parágrafo 35075  tokens-rótulo 1198
+
+Unidades glíficas (top 22) e % por posição na palavra [ini/meio/fim/só]:
+  o      25503  14.7%  ini  33.9  meio  60.8  fim   4.5  só  0.8
+  e      20346  11.7%  ini   0.6  meio  98.9  fim   0.5  só  0.0
+  y      17839  10.3%  ini   9.3  meio   2.8  fim  86.1  só  1.7
+  a      14752   8.5%  ini  14.5  meio  85.0  fim   0.5  só  0.1
+  d      13164   7.6%  ini  27.2  meio  67.8  fim   4.5  só  0.5
+  i      11834   6.8%  ini   0.1  meio  99.9  fim   0.1  só  0.0
+  ch     11014   6.4%  ini  55.2  meio  44.6  fim   0.2  só  0.1
+  l      10634   6.1%  ini  11.9  meio  31.8  fim  54.5  só  1.8
+  k      10078   5.8%  ini  12.4  meio  86.6  fim   0.8  só  0.2
+  r       7573   4.4%  ini   4.8  meio  18.0  fim  75.0  só  2.2
+  n       6167   3.6%  ini   0.0  meio   1.5  fim  98.5  só  0.0
+  t       5992   3.5%  ini  16.8  meio  81.9  fim   1.0  só  0.2
+  q       5418   3.1%  ini  99.3  meio   0.6  fim   0.0  só  0.0
+  sh      4523   2.6%  ini  71.0  meio  28.1  fim   0.4  só  0.5
+  s       2803   1.6%  ini  35.6  meio  13.2  fim  38.7  só 12.5
+  p       1438   0.8%  ini  37.3  meio  60.2  fim   2.0  só  0.5
+  m       1068   0.6%  ini   0.1  meio   3.7  fim  95.2  só  1.0
+  cth      888   0.5%  ini  52.8  meio  46.3  fim   0.6  só  0.3
+  ckh      865   0.5%  ini  20.3  meio  79.2  fim   0.5  só  0.0
+  f        414   0.2%  ini  26.8  meio  66.2  fim   4.6  só  2.4
+  cph      201   0.1%  ini  61.7  meio  38.3  fim   0.0  só  0.0
+  g        151   0.1%  ini   1.3  meio   6.0  fim  83.4  só  9.3
+
+Entropia (bits): h1 = incondicional, h2 = condicional ao símbolo anterior (espaço conta como símbolo)
+  Voynich EVA-letras                                   alfabeto  42  h1 3.93  h2 2.18
+  Voynich unidades                                     alfabeto 207  h1 3.87  h2 2.28
+  Latim (Isidoro XVII/IV/XVI + Apício), mesmo tamanho  alfabeto  24  h1 3.99  h2 3.35
+
+Comprimento médio: Voynich 5.03±1.89 letras EVA, 4.46±1.68 unidades; Latim 5.72±2.58 letras
+  distribuição (unidades) 1:3.8 2:8.4 3:16.6 4:22.2 5:22.5 6:15.6 7:7.8 8:2.1 9:0.7 10:0.2
+  distribuição (latim)    1:1.3 2:11.7 3:9.2 4:11.6 5:14.5 6:14.9 7:12.8 8:9.4 9:6.6 10:4.2 11:2.1 12:1.1
+  razão tipo/token: Voynich 0.212  Latim (mesmo nº de palavras) 0.226
+  hapax: Voynich 5744 (70% dos tipos)  Latim 5936 (67%)
+
+Gramática de 6 casas: cobre 75.8% dos tokens e 30.4% dos tipos
+  (controle: a mesma gramática aplicada a palavras latinas, letras como EVA: 10.5%)
+
+Palavras mais comuns por seção (só parágrafos/círculos/radiais, sem rótulos):
+  herbal             n=11538: daiin 4.0, chol 2.0, s 1.6, chor 1.3, dy 1.3, or 1.1, dar 1.0, shol 1.0
+  farmacêutica       n= 2318: daiin 4.1, s 1.9, chol 1.9, ol 1.8, cheol 1.6, aiin 1.5, or 1.5, okeol 1.3
+  biológica          n= 6251: ol 3.5, shedy 3.5, chedy 2.9, qokain 2.6, qokedy 2.5, qokeedy 2.4, qol 1.7, qokal 1.6
+  estrelas/receitas  n=11603: aiin 1.9, chedy 1.7, ar 1.5, qokeey 1.4, al 1.2, qokeedy 1.2, daiin 1.1, chey 1.1
+  zodíaco            n=  951: aiin 2.6, al 2.4, ar 2.4, oteey 2.0, oteody 1.4, oteos 1.3, otey 1.2, otaiin 1.2
+  astronômica        n=  730: ar 1.8, aiin 1.6, s 1.5, daiin 1.4, dair 1.2, dar 1.2, dy 1.2, o 1.1
+  cosmológica        n= 2016: ar 2.4, ol 1.9, or 1.7, aiin 1.6, y 1.4, daiin 1.3, dar 1.3, o 1.2
+  só texto           n= 2291: or 1.9, shedy 1.9, ol 1.8, chedy 1.7, aiin 1.7, ar 1.7, dar 1.4, daiin 1.3
+
+Currier A (n=11300) vs B (n=23128), texto corrido:
+  top A: daiin 4.4, chol 2.4, s 1.8, chor 1.6, dy 1.1, shol 1.0, chy 1.0, ol 0.9, or 0.9, sho 0.9
+  top B: chedy 2.1, ol 1.8, shedy 1.8, aiin 1.6, qokeedy 1.3, daiin 1.3, qokedy 1.2, qokain 1.2, ar 1.1, qokeey 1.1
+  mais típicas de A (log2 razão): cthor +5.1, cthol +4.9, cthy +4.9, sho +3.9, chor +3.7, d +3.0, chaiin +2.9, qotchy +2.9, cho +2.8, cthey +2.7
+  mais típicas de B (log2 razão): qokeedy -8.2, chedy -7.3, otedy -7.1, okedy -6.7, qokedy -6.5, qotedy -6.4, shedy -6.4, qoteedy -6.2, keedy -5.9, qokchdy -5.6
+  começa com qo            A   9.6%   B  17.6%
+  contém ee                A   7.0%   B  14.8%
+  contém ed                A   0.3%   B  20.7%
+  termina em dy            A   6.5%   B  23.8%
+  termina em aiin/ain      A  13.5%   B  15.9%
+  termina em ol            A  14.1%   B   7.1%
+  termina em or            A  10.1%   B   3.8%
+  começa com ch/sh         A  27.8%   B  23.3%
+  contém gallows k/t/p/f   A  46.1%   B  52.6%
+
+Escribas ($H), texto corrido: % de palavras terminadas em -dy / -aiin|ain / -ol|or / começando com qo
+  mão 1: n=10548  dy  6.6  aiin 13.7  ol/or 25.0  qo  9.3  ee  7.1
+  mão 2: n=10832  dy 27.3  aiin 13.8  ol/or 12.9  qo 19.1  ee 11.6
+  mão 3: n=11721  dy 18.9  aiin 18.2  ol/or  9.1  qo 16.2  ee 17.2
+  mão 4: n=  541  dy  9.1  aiin 11.3  ol/or 12.9  qo  5.9  ee 12.6
+  mão 5: n=  874  dy 31.8  aiin  7.2  ol/or  9.5  qo 11.2  ee 12.9
+  mão @: n=  461  dy 22.3  aiin 12.6  ol/or 13.4  qo 24.3  ee 14.3
+
+Rótulos: 1177 palavras em 1028 rótulos; por seção: zodíaco 299, farmacêutica 234, cosmológica 171, astronômica 116, biológica 116, só texto 60, herbal 32
+  1ª unidade (rótulo vs texto corrido): o 54/20, ch 6/16, sh 2/9, q 1/15, d 10/9, y 8/5, s 5/3, k 1/3, t 1/3, p 0/2, f 1/0, a 6/5, l 1/4, r 1/1, cth 0/1, ckh 0/0
+  começam com ok-/ot-: rótulos 33.1%  texto 11.1%
+  comprimento médio (unid.): rótulos 4.94  texto 4.45
+  tipos de rótulo que também ocorrem no texto corrido: 388/848 (46%)
+  rótulos (palavra) que se repetem: 141 tipos; mais repetidos: o×15, y×14, s×12, otedy×10, otaly×9, d×8, oky×8, ar×8
+  terminam em -y: rótulos 41%  texto 41%; em -ar/-al: rótulos 16%  texto 12%
+
+Efeitos de linha (texto corrido):
+  1ª palavra começa com p  : início de linha   9.3%  meio   0.5%  início de parágrafo  44.9%
+  1ª palavra começa com f  : início de linha   0.8%  meio   0.2%  início de parágrafo   4.2%
+  1ª palavra começa com t  : início de linha   9.7%  meio   1.9%  início de parágrafo  23.2%
+  1ª palavra começa com k  : início de linha   2.6%  meio   3.7%  início de parágrafo  10.5%
+  1ª palavra começa com s  : início de linha  10.0%  meio   2.3%  início de parágrafo   1.5%
+  1ª palavra começa com d  : início de linha  15.4%  meio   7.4%  início de parágrafo   1.9%
+  1ª palavra começa com y  : início de linha  14.6%  meio   3.6%  início de parágrafo   1.3%
+  1ª palavra começa com o  : início de linha  13.3%  meio  21.2%  início de parágrafo   3.9%
+  1ª palavra começa com q  : início de linha  12.9%  meio  16.6%  início de parágrafo   4.0%
+  1ª palavra começa com ch : início de linha   3.2%  meio  18.4%  início de parágrafo   0.4%
+  1ª palavra começa com sh : início de linha   4.6%  meio  10.1%  início de parágrafo   0.5%
+  última letra da palavra = m: fim de linha  15.6%  meio   0.9%
+  última letra da palavra = g: fim de linha   2.2%  meio   0.1%
+  última letra da palavra = y: fim de linha  38.9%  meio  42.2%
+  última letra da palavra = n: fim de linha  15.2%  meio  16.1%
+  última letra da palavra = l: fim de linha  11.1%  meio  16.4%
+  última letra da palavra = r: fim de linha   8.6%  meio  14.9%
+  última letra da palavra = s: fim de linha   3.3%  meio   3.1%
+  linhas com p ou f: 1ª linha de parágrafo 82%  demais linhas 9%
+
+Repetição imediata (w, w) no texto corrido: 285 pares em 30945 (0.92%); esperado com palavras embaralhadas 0.34%; latim 0.064%
+  mais repetidas: chol×24, qokeedy×18, qokedy×16, qokeey×12, daiin×11, shedy×9, chedy×9, ol×8, chor×7, dy×7
+  vizinhos que diferem em 1 unidade: 4.34% (embaralhado 2.19%)

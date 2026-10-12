@@ -1,0 +1,15 @@
+Voynich   ('B', 'B')   páginas  19 | palavras-chave de página   7 (acaso   2.0) de  200 | cosseno vizinhas 0.647 x distantes 0.607 | ex.: okey, chedaiin, chees, teey, qoeedy, qokchedy
+Voynich   ('H', 'A')   páginas  95 | palavras-chave de página   1 (acaso   0.1) de  257 | cosseno vizinhas 0.339 x distantes 0.278 | ex.: t
+Voynich   ('H', 'B')   páginas  32 | palavras-chave de página   4 (acaso   1.0) de  135 | cosseno vizinhas 0.328 x distantes 0.269 | ex.: chekedy, shee, oteey, yty
+Voynich   ('S', 'B')   páginas  23 | palavras-chave de página   8 (acaso   2.6) de  343 | cosseno vizinhas 0.565 x distantes 0.489 | ex.: okedy, cheeey, lkchdy, tain, polaiin, olar
+G-casas2  ('B', 'B')   páginas  19 | palavras-chave de página   3 (acaso   1.7) de  187 | cosseno vizinhas 0.742 x distantes 0.735
+G-casas2  ('H', 'A')   páginas  94 | palavras-chave de página   1 (acaso   0.1) de  225 | cosseno vizinhas 0.319 x distantes 0.322
+G-casas2  ('H', 'B')   páginas  32 | palavras-chave de página   1 (acaso   0.3) de  116 | cosseno vizinhas 0.342 x distantes 0.334
+G-casas2  ('S', 'B')   páginas  23 | palavras-chave de página   2 (acaso   2.8) de  323 | cosseno vizinhas 0.661 x distantes 0.666
+G-cópia   ('B', 'B')   páginas  19 | palavras-chave de página  54 (acaso   3.2) de  230 | cosseno vizinhas 0.398 x distantes 0.377
+G-cópia   ('H', 'A')   páginas  94 | palavras-chave de página  40 (acaso   0.2) de  260 | cosseno vizinhas 0.083 x distantes 0.090
+G-cópia   ('H', 'B')   páginas  32 | palavras-chave de página  32 (acaso   0.7) de  125 | cosseno vizinhas 0.112 x distantes 0.114
+G-cópia   ('S', 'B')   páginas  23 | palavras-chave de página  78 (acaso   3.8) de  365 | cosseno vizinhas 0.281 x distantes 0.302
+Isidoro   12           páginas  38 | palavras-chave de página  27 (acaso   1.3) de  304 | cosseno vizinhas 0.502 x distantes 0.485
+Isidoro   16           páginas  32 | palavras-chave de página  33 (acaso   1.3) de  294 | cosseno vizinhas 0.562 x distantes 0.497
+Isidoro   17           páginas  33 | palavras-chave de página  18 (acaso   1.0) de  263 | cosseno vizinhas 0.552 x distantes 0.508

@@ -1,0 +1,4 @@
+chave final | vírgula=split: n=20239 real 23.0% (multi 1.2%) | embaralhado 22.5% ± 0.0% (multi 0.7%) | diferença +0.5 pts, P=0.00
+chave final | vírgula=join: n=18842 real 20.2% (multi 0.6%) | embaralhado 20.0% ± 0.0% (multi 0.3%) | diferença +0.2 pts, P=0.00
+chave nula (treinada no texto embaralhado) | vírgula=split: n=20239 real 15.7% (multi 0.4%) | embaralhado 15.6% ± 0.0% (multi 0.3%) | diferença +0.1 pts, P=0.00
+chave nula (treinada no texto embaralhado) | vírgula=join: n=18842 real 13.2% (multi 0.2%) | embaralhado 13.2% ± 0.0% (multi 0.2%) | diferença +0.0 pts, P=0.47

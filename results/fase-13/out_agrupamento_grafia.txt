@@ -1,0 +1,9 @@
+Voynich, palavras como estão                              índice +0.109
+Voynich, variantes fundidas (k=t, ch=sh, e/i colapsados)  índice +0.108
+Voynich, fusão forte (também o=a e finais)                índice +0.103
+Latim, palavras como estão                               índice +0.113
+Latim, fusão forte análoga (vogais colapsadas, finais)   índice +0.111
+Voynich em blocos de 1 páginas vizinhas: índice +0.109  |  latim: +0.113
+Voynich em blocos de 2 páginas vizinhas: índice +0.107  |  latim: +0.114
+Voynich em blocos de 4 páginas vizinhas: índice +0.091  |  latim: +0.096
+Voynich em blocos de 8 páginas vizinhas: índice +0.088  |  latim: +0.060

@@ -1,0 +1,16 @@
+Voynich   agrupamento por página +0.109
+   ('B', 'B')   palavras-chave  7 (acaso  2.0) de 200 | cosseno vizinhas 0.647 x distantes 0.607
+   ('H', 'A')   palavras-chave  1 (acaso  0.1) de 257 | cosseno vizinhas 0.339 x distantes 0.278
+   ('H', 'B')   palavras-chave  4 (acaso  1.0) de 135 | cosseno vizinhas 0.328 x distantes 0.269
+   ('S', 'B')   palavras-chave  8 (acaso  2.6) de 343 | cosseno vizinhas 0.565 x distantes 0.489
+G-casas2  agrupamento por página +0.025
+   ('B', 'B')   palavras-chave  3 (acaso  1.7) de 187 | cosseno vizinhas 0.742 x distantes 0.735
+   ('H', 'A')   palavras-chave  1 (acaso  0.1) de 225 | cosseno vizinhas 0.319 x distantes 0.322
+   ('H', 'B')   palavras-chave  1 (acaso  0.3) de 116 | cosseno vizinhas 0.342 x distantes 0.334
+   ('S', 'B')   palavras-chave  2 (acaso  2.8) de 323 | cosseno vizinhas 0.661 x distantes 0.666
+G-deriva  agrupamento por página +0.025
+   ('B', 'B')   palavras-chave  5 (acaso  2.3) de 197 | cosseno vizinhas 0.731 x distantes 0.734
+   ('H', 'A')   palavras-chave  1 (acaso  0.1) de 246 | cosseno vizinhas 0.324 x distantes 0.324
+   ('H', 'B')   palavras-chave  2 (acaso  0.4) de 115 | cosseno vizinhas 0.367 x distantes 0.356
+   ('S', 'B')   palavras-chave  1 (acaso  2.7) de 323 | cosseno vizinhas 0.671 x distantes 0.661
+G-deriva bateria: h2=2.156; compr=4.374; TTR=0.214; hapax=0.709; razao=2.121; F1esp=0.890; rep=0.012; quase=0.033; m_curtas=0.067; m_longas=0.202; m_meio=0.009; par_gallows=0.809; ed_A=0.002; ed_B=0.204; JS_H_B=0.393; eco=0.172; eco_acaso=0.131; conc_rot=0.011; conc_nulo=0.115; freq_rot=117.000; freq_nulo=11.640
