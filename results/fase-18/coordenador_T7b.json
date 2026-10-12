@@ -1,0 +1,87 @@
+{
+ "isidoro17 claro": {
+  "paginas": 106,
+  "grupos": 4,
+  "agrup": 0.003083006871151021,
+  "bloco8": 0.0020585270192418894,
+  "razao_b8_agrup": 0.6677010805601453,
+  "local_como_VB": false
+ },
+ "isidoro17 naibbe": {
+  "paginas": 106,
+  "grupos": 4,
+  "agrup": 0.001112179712024781,
+  "bloco8": 0.0023766788865885995,
+  "razao_b8_agrup": 2.1369558003011333,
+  "local_como_VB": false
+ },
+ "apicius claro": {
+  "paginas": 82,
+  "grupos": 4,
+  "agrup": 0.03674447353275447,
+  "bloco8": 0.07388916249679528,
+  "razao_b8_agrup": 2.0108918537349454,
+  "local_como_VB": false
+ },
+ "apicius naibbe": {
+  "paginas": 82,
+  "grupos": 4,
+  "agrup": -0.0007971895672990365,
+  "bloco8": -0.0023861897202999863,
+  "razao_b8_agrup": null,
+  "local_como_VB": false
+ },
+ "plinio16 claro": {
+  "paginas": 97,
+  "grupos": 4,
+  "agrup": 0.028397607670174123,
+  "bloco8": 0.010477652889288014,
+  "razao_b8_agrup": 0.3689625200468082,
+  "local_como_VB": false
+ },
+ "plinio16 naibbe": {
+  "paginas": 97,
+  "grupos": 4,
+  "agrup": -0.00036310208825797994,
+  "bloco8": -0.00040653260529145653,
+  "razao_b8_agrup": null,
+  "local_como_VB": false
+ },
+ "hyginus claro": {
+  "paginas": 40,
+  "grupos": 2,
+  "agrup": 0.11713493303023151,
+  "bloco8": 0.08879477948422057,
+  "razao_b8_agrup": 0.7580554936698808,
+  "local_como_VB": false
+ },
+ "hyginus naibbe": {
+  "paginas": 40,
+  "grupos": 2,
+  "agrup": 0.007821719217109882,
+  "bloco8": -0.0004939158660440841,
+  "razao_b8_agrup": -0.063146713955629,
+  "local_como_VB": false
+ },
+ "cesar claro": {
+  "paginas": 61,
+  "grupos": 3,
+  "agrup": 0.0763212983770461,
+  "bloco8": 0.04485756931849835,
+  "razao_b8_agrup": 0.5877464125006215,
+  "local_como_VB": false
+ },
+ "cesar naibbe": {
+  "paginas": 61,
+  "grupos": 3,
+  "agrup": 0.0035387235036576834,
+  "bloco8": 0.00024365885063735795,
+  "razao_b8_agrup": 0.06885501237536872,
+  "local_como_VB": false
+ },
+ "VB natural": {
+  "agrup": 0.1008592447657527,
+  "bloco8": 0.009816039617661742,
+  "razao_b8_agrup": 0.09732414356720259
+ }
+}

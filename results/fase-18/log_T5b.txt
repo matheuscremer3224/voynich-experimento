@@ -1,0 +1,12 @@
+Total ambiguity retries: 0
+dirichlet 5      isidoro17  dec=1.000 agrup_200=+0.0725 R=+0.74 hapax=0.500 TTR=0.197 razao=0.03 viz=+0.093 (23s)
+dirichlet 5      plinio16   dec=1.000 agrup_200=+0.0724 R=+0.75 hapax=0.499 TTR=0.191 razao=0.04 viz=+0.123 (44s)
+dirichlet 5      apicius    dec=1.000 agrup_200=+0.0885 R=+0.92 hapax=0.523 TTR=0.213 razao=0.04 viz=+0.110 (54s)
+dirichlet 5      hyginus    dec=1.000 agrup_200=+0.0710 R=+0.73 hapax=0.482 TTR=0.180 razao=0.04 viz=+0.171 (76s)
+dirichlet 5      cesar      dec=1.000 agrup_200=+0.0810 R=+0.84 hapax=0.497 TTR=0.183 razao=0.05 viz=+0.147 (97s)
+dirichlet 3      isidoro17  dec=1.000 agrup_200=+0.0995 R=+1.02 hapax=0.521 TTR=0.186 razao=0.04 viz=+0.130 (116s)
+dirichlet 3      plinio16   dec=1.000 agrup_200=+0.1121 R=+1.15 hapax=0.515 TTR=0.185 razao=0.03 viz=+0.160 (135s)
+dirichlet 3      apicius    dec=1.000 agrup_200=+0.1242 R=+1.28 hapax=0.528 TTR=0.202 razao=0.05 viz=+0.139 (147s)
+dirichlet 3      hyginus    dec=1.000 agrup_200=+0.0867 R=+0.89 hapax=0.504 TTR=0.177 razao=0.05 viz=+0.171 (170s)
+dirichlet 3      cesar      dec=1.000 agrup_200=+0.1069 R=+1.10 hapax=0.495 TTR=0.181 razao=0.05 viz=+0.197 (191s)
+191s

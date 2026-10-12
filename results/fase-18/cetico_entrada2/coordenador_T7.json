@@ -1,0 +1,53 @@
+{
+ "isidoro17 claro": {
+  "paginas": 113,
+  "fichas_por_pagina": 77.17699115044248,
+  "agrup": 0.06114688531923305,
+  "bloco8": 0.12090179463346812,
+  "razao_b8_agrup": 1.977235537055881,
+  "viz": 0.0400389805047868,
+  "agrup_200": 0.08535947943138346,
+  "local_como_VB": false
+ },
+ "isidoro17 naibbe": {
+  "paginas": 113,
+  "fichas_por_pagina": 277.17699115044246,
+  "agrup": 0.00014202440871984265,
+  "bloco8": -0.0031218742564666463,
+  "razao_b8_agrup": -21.98125156517888,
+  "viz": 0.002596484340852967,
+  "agrup_200": -0.002575051082431065,
+  "local_como_VB": false
+ },
+ "apicius claro": {
+  "paginas": 82,
+  "fichas_por_pagina": 80.8780487804878,
+  "agrup": 0.11429855237270552,
+  "bloco8": 0.19968328092396628,
+  "razao_b8_agrup": 1.7470324582312964,
+  "viz": 0.10669899010424078,
+  "agrup_200": 0.18925648967422484,
+  "local_como_VB": false
+ },
+ "apicius naibbe": {
+  "paginas": 82,
+  "fichas_por_pagina": 294.9512195121951,
+  "agrup": 0.005001886253143,
+  "bloco8": 0.015968412195681427,
+  "razao_b8_agrup": 3.1924780747757846,
+  "viz": 0.0075360884909864145,
+  "agrup_200": 0.0009914914031519805,
+  "local_como_VB": false
+ },
+ "VB natural": {
+  "agrup": 0.1008592447657527,
+  "bloco8": 0.009816039617661742,
+  "razao_b8_agrup": 0.09732414356720259,
+  "fichas_por_pagina": 278.65060240963857
+ },
+ "BxH natural": {
+  "agrup": 0.07463958518894126,
+  "bloco8": 0.01481853117507036,
+  "razao_b8_agrup": 0.19853447922518602
+ }
+}

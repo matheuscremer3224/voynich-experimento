@@ -1,0 +1,291 @@
+{
+ "decisao": "CONTRA",
+ "por_texto": {
+  "isidoro17": {
+   "P1": {
+    "passa": false,
+    "falhas": [
+     "TTR",
+     "hapax"
+    ]
+   },
+   "P2": {
+    "passa": false,
+    "falhas": [
+     "agrup_200",
+     "viz_200"
+    ]
+   },
+   "P3": {
+    "passa": false,
+    "falhas": [
+     "h2",
+     "compr",
+     "razao",
+     "F1esp",
+     "rep"
+    ]
+   }
+  },
+  "plinio16": {
+   "P1": {
+    "passa": false,
+    "falhas": [
+     "TTR",
+     "hapax"
+    ]
+   },
+   "P2": {
+    "passa": false,
+    "falhas": [
+     "agrup_200",
+     "viz_200"
+    ]
+   },
+   "P3": {
+    "passa": false,
+    "falhas": [
+     "h2",
+     "compr",
+     "razao",
+     "F1esp",
+     "rep"
+    ]
+   }
+  },
+  "apicius": {
+   "P1": {
+    "passa": false,
+    "falhas": [
+     "TTR",
+     "hapax"
+    ]
+   },
+   "P2": {
+    "passa": false,
+    "falhas": [
+     "agrup_200",
+     "viz_200"
+    ]
+   },
+   "P3": {
+    "passa": false,
+    "falhas": [
+     "h2",
+     "compr",
+     "razao",
+     "F1esp",
+     "rep"
+    ]
+   }
+  },
+  "hyginus": {
+   "P1": {
+    "passa": false,
+    "falhas": [
+     "TTR",
+     "hapax"
+    ]
+   },
+   "P2": {
+    "passa": false,
+    "falhas": [
+     "agrup_200",
+     "viz_200"
+    ]
+   },
+   "P3": {
+    "passa": false,
+    "falhas": [
+     "h2",
+     "compr",
+     "razao",
+     "F1esp",
+     "rep"
+    ]
+   }
+  },
+  "cesar": {
+   "P1": {
+    "passa": false,
+    "falhas": [
+     "TTR",
+     "hapax"
+    ]
+   },
+   "P2": {
+    "passa": false,
+    "falhas": [
+     "agrup_200",
+     "viz_200"
+    ]
+   },
+   "P3": {
+    "passa": false,
+    "falhas": [
+     "h2",
+     "compr",
+     "razao",
+     "F1esp",
+     "rep"
+    ]
+   }
+  },
+  "dante": {
+   "P1": {
+    "passa": false,
+    "falhas": [
+     "TTR",
+     "hapax"
+    ]
+   },
+   "P2": {
+    "passa": false,
+    "falhas": [
+     "agrup_200",
+     "viz_200"
+    ]
+   },
+   "P3": {
+    "passa": false,
+    "falhas": [
+     "h2",
+     "compr",
+     "razao",
+     "F1esp",
+     "rep"
+    ]
+   }
+  },
+  "europarl_it": {
+   "P1": {
+    "passa": false,
+    "falhas": [
+     "TTR",
+     "hapax"
+    ]
+   },
+   "P2": {
+    "passa": false,
+    "falhas": [
+     "agrup_200",
+     "viz_200"
+    ]
+   },
+   "P3": {
+    "passa": false,
+    "falhas": [
+     "h2",
+     "compr",
+     "razao",
+     "F1esp",
+     "rep"
+    ]
+   }
+  }
+ },
+ "referencias": {
+  "Voynich B inteiro": {
+   "P1": {
+    "passa": false,
+    "falhas": [
+     "TTR"
+    ]
+   },
+   "P2": {
+    "passa": true,
+    "falhas": []
+   },
+   "P3": {
+    "passa": true,
+    "falhas": []
+   }
+  },
+  "Voynich A inteiro": {
+   "P1": {
+    "passa": true,
+    "falhas": []
+   },
+   "P2": {
+    "passa": true,
+    "falhas": []
+   },
+   "P3": {
+    "passa": false,
+    "falhas": [
+     "h2",
+     "compr",
+     "razao",
+     "F1esp"
+    ]
+   }
+  },
+  "regras-deriva mediana B": {
+   "P1": {
+    "passa": false,
+    "falhas": [
+     "TTR",
+     "hapax"
+    ]
+   },
+   "P2": {
+    "passa": false,
+    "falhas": [
+     "agrup_200",
+     "viz_200"
+    ]
+   },
+   "P3": {
+    "passa": true,
+    "falhas": []
+   }
+  },
+  "VB global mediana": {
+   "P1": {
+    "passa": false,
+    "falhas": [
+     "TTR"
+    ]
+   },
+   "P2": {
+    "passa": false,
+    "falhas": [
+     "agrup_200",
+     "viz_200"
+    ]
+   },
+   "P3": {
+    "passa": false,
+    "falhas": [
+     "razao",
+     "F1esp",
+     "rep"
+    ]
+   }
+  },
+  "VB pagina mediana": {
+   "P1": {
+    "passa": false,
+    "falhas": [
+     "TTR"
+    ]
+   },
+   "P2": {
+    "passa": false,
+    "falhas": [
+     "agrup_200"
+    ]
+   },
+   "P3": {
+    "passa": false,
+    "falhas": [
+     "razao",
+     "F1esp",
+     "rep"
+    ]
+   }
+  }
+ },
+ "n_p1p2": 0,
+ "n_falha_p2": 5
+}

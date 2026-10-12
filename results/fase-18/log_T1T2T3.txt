@@ -1,0 +1,73 @@
+VB R=1 orig=0.0966 nulo=-0.0008 p95=+0.0069  (7s)
+isidoro17  código    agrup_200=+0.0854 nulo=+0.0004 p95=+0.0066 R=+0.873 passa=True  (9s)
+Total ambiguity retries: 0
+isidoro17  naibbe s1 agrup_200=-0.0026 nulo=+0.0002 p95=+0.0047 R=-0.028 passa=False  (28s)
+isidoro17  naibbe s2 agrup_200=-0.0032 nulo=-0.0007 p95=+0.0025 R=-0.026 passa=False  (45s)
+isidoro17  naibbe s3 agrup_200=+0.0038 nulo=-0.0009 p95=+0.0019 R=+0.048 passa=False  (62s)
+plinio16   código    agrup_200=+0.0397 nulo=+0.0006 p95=+0.0186 R=+0.402 passa=True  (64s)
+plinio16   naibbe s1 agrup_200=-0.0003 nulo=-0.0001 p95=+0.0028 R=-0.001 passa=False  (85s)
+plinio16   naibbe s2 agrup_200=-0.0033 nulo=-0.0013 p95=+0.0014 R=-0.021 passa=False  (104s)
+plinio16   naibbe s3 agrup_200=-0.0024 nulo=+0.0002 p95=+0.0040 R=-0.026 passa=False  (123s)
+apicius    código    agrup_200=+0.1893 nulo=-0.0004 p95=+0.0110 R=+1.948 passa=True  (124s)
+apicius    naibbe s1 agrup_200=+0.0010 nulo=-0.0022 p95=+0.0018 R=+0.033 passa=False  (134s)
+apicius    naibbe s2 agrup_200=+0.0068 nulo=-0.0013 p95=+0.0031 R=+0.083 passa=False  (144s)
+apicius    naibbe s3 agrup_200=+0.0020 nulo=+0.0006 p95=+0.0053 R=+0.015 passa=False  (153s)
+hyginus    código    agrup_200=+0.1045 nulo=-0.0030 p95=+0.0045 R=+1.104 passa=True  (155s)
+hyginus    naibbe s1 agrup_200=+0.0018 nulo=+0.0006 p95=+0.0038 R=+0.012 passa=False  (176s)
+hyginus    naibbe s2 agrup_200=-0.0003 nulo=-0.0010 p95=+0.0023 R=+0.007 passa=False  (198s)
+hyginus    naibbe s3 agrup_200=-0.0016 nulo=-0.0000 p95=+0.0033 R=-0.016 passa=False  (219s)
+cesar      código    agrup_200=+0.1009 nulo=-0.0009 p95=+0.0111 R=+1.045 passa=True  (221s)
+cesar      naibbe s1 agrup_200=+0.0046 nulo=-0.0002 p95=+0.0047 R=+0.049 passa=False  (242s)
+cesar      naibbe s2 agrup_200=-0.0019 nulo=-0.0006 p95=+0.0042 R=-0.014 passa=False  (263s)
+cesar      naibbe s3 agrup_200=-0.0018 nulo=-0.0009 p95=+0.0021 R=-0.009 passa=False  (282s)
+{
+ "poder_T2": {
+  "VB passa": true,
+  "código passa em ≥3/5": true,
+  "VB embaralhado falha": true
+ },
+ "R_mediano_naibbe": {
+  "isidoro17": -0.02592508397874554,
+  "plinio16": -0.02087964542306517,
+  "apicius": 0.032977411710394595,
+  "hyginus": 0.006986908060951963,
+  "cesar": -0.009045417126400147
+ },
+ "passa_T2": {
+  "isidoro17": false,
+  "plinio16": false,
+  "apicius": false,
+  "hyginus": false,
+  "cesar": false
+ },
+ "n_falha_T2": 5,
+ "n_passa_T2_e_T3": 0,
+ "decisao": "CONTRA",
+ "sem_apicius": {
+  "n_falha_T2": 4,
+  "de": 4
+ },
+ "T1_v1_codigo": {
+  "isidoro17": {
+   "P1": false,
+   "P2": false
+  },
+  "plinio16": {
+   "P1": false,
+   "P2": false
+  },
+  "apicius": {
+   "P1": false,
+   "P2": false
+  },
+  "hyginus": {
+   "P1": false,
+   "P2": false
+  },
+  "cesar": {
+   "P1": false,
+   "P2": false
+  }
+ }
+}
+282s

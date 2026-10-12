@@ -1,0 +1,5 @@
+metade 1 s13: D_dentro=0.297 D_fora=0.298 (11s)
+metade 1 s14: D_dentro=0.193 D_fora=0.436 (21s)
+metade 2 s13: D_dentro=0.243 D_fora=0.328 (31s)
+metade 2 s14: D_dentro=0.227 D_fora=0.259 (41s)
+{'D_dentro': 0.24012092734235618, 'D_fora': 0.3303430098613743, 'inflacao': False, 'D_naibbe_vs_VB': {'isidoro17': 1.4250658495816455, 'plinio16': 1.426217511506661, 'apicius': 1.3659662692807744, 'hyginus': 1.4888804243334903, 'cesar': 1.5009992075892948}}
